@@ -1,0 +1,3 @@
+[submodule "sbmueller"]
+	path = sbmueller
+	url = git@github.com:sbmueller/cv.git
